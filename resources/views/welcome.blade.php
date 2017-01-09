@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">By Aufree</div>
+                <div class="title">My World,I Come!</div>
             </div>
         </div>
     </body>
