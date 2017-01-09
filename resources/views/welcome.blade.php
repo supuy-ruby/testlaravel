@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">My World,I Come Back!wangwang</div>
+                <div class="title">My World,I Come Back!wawa</div>
             </div>
         </div>
     </body>
